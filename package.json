@@ -3,7 +3,7 @@
         "netlify-lambda": "^1.6.3"
     },
     "scripts": {
-        "server": "netlify-lambda serve functions",
+        "serve": "netlify-lambda serve functions",
         "build": "netlify-lambda build functions"
     },
     "name": "lambda-test",
