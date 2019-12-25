@@ -1,4 +1,4 @@
 [build]
-  command = "yarn build"
+  command = "pwd && ls -la && yarn build"
   functions = "lambda"
   publish = "public"
